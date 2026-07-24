@@ -7,15 +7,15 @@ This organization hosts repositories for student projects and assignments relate
 
 ### Documentation
 Need information about the Hoolsy platforms and how they work together?
-- **Platform Documentation**: [Hoolsy-Students/documents](https://github.com/Hoolsy-Students/documents)
+- **Platform Documentation**: [HoolsyAS/documents](https://github.com/HoolsyAS/documents)
 
 ### Existing Codebase
 Want to see previous development work (built by Mathias)?
-- **Platform Code**: [Hoolsy-Students/hoolsy-platforms](https://github.com/Hoolsy-Students/hoolsy-platforms)
+- **Platform Code**: [HoolsyAS/hoolsy-platforms](https://github.com/HoolsyAS/hoolsy-platforms)
 
 ### Repositories
 Looking for student team repositories?
-- **All Repositories**: [Hoolsy-Students repositories](https://github.com/orgs/Hoolsy-Students/repositories)
+- **All Repositories**: [HoolsyAS repositories](https://github.com/orgs/HoolsyAS/repositories)
 
 ## Contact
 
