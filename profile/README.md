@@ -1,25 +1,25 @@
-# Hoolsy 
-Welcome to the official GitHub organization for students working with Hoolsy!
+# Hoolsy
+Welcome to the official GitHub organization of [Hoolsy AS](https://www.hoolsy.com).
 
-This organization hosts repositories for student projects and assignments related to the Hoolsy platform ecosystem.
+Hoolsy is building an end-to-end platform ecosystem connecting media production workflows with structured data capture and commerce capabilities. This organization hosts the source code and documentation for the Hoolsy platform.
 
 ## Getting Started
 
 ### Documentation
-Need information about the Hoolsy platforms and how they work together?
+Learn about the Hoolsy platforms and how they work together:
 - **Platform Documentation**: [HoolsyAS/documents](https://github.com/HoolsyAS/documents)
 
-### Existing Codebase
-Want to see previous development work (built by Mathias)?
+### Codebase
+Explore the platform source code:
 - **Platform Code**: [HoolsyAS/hoolsy-platforms](https://github.com/HoolsyAS/hoolsy-platforms)
 
 ### Repositories
-Looking for student team repositories?
+Browse all repositories:
 - **All Repositories**: [HoolsyAS repositories](https://github.com/orgs/HoolsyAS/repositories)
 
 ## Contact
 
-If you have questions or need assistance, reach out to the Hoolsy team:
+Reach out to the Hoolsy team:
 
 **Mathias Haslien**
 Developer, Technical Advisor & Tech Lead
@@ -45,8 +45,3 @@ Technical Consultant & Advisor
 Intern Assistant at Hoolsy
 📧 [seishaa@hoolsy.com](mailto:seishaa@hoolsy.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/seishaa-vijayananthan-22bbb1234/)
-
----
-
-**About Hoolsy**
-Hoolsy is building an end-to-end platform ecosystem connecting media production workflows with structured data capture and commerce capabilities.
