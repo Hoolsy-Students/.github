@@ -1,5 +1,4 @@
-# Hoolsy Students
-
+# Hoolsy 
 Welcome to the official GitHub organization for students working with Hoolsy!
 
 This organization hosts repositories for student projects and assignments related to the Hoolsy platform ecosystem.
@@ -14,7 +13,7 @@ Need information about the Hoolsy platforms and how they work together?
 Want to see previous development work (built by Mathias)?
 - **Platform Code**: [Hoolsy-Students/hoolsy-platforms](https://github.com/Hoolsy-Students/hoolsy-platforms)
 
-### Student Repositories
+### Repositories
 Looking for student team repositories?
 - **All Repositories**: [Hoolsy-Students repositories](https://github.com/orgs/Hoolsy-Students/repositories)
 
